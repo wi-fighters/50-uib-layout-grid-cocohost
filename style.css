@@ -28,7 +28,7 @@
 .nine {
   grid-column: 2;
   grid-row: 3 / span 2;
-  background-color: blue;
+  background-color: blue.two;
 }
 .ten {
   grid-row: span 2;
